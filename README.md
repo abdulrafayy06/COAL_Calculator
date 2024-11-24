@@ -14,9 +14,13 @@ The calculator offers the following features:
 The program includes robust input handling, clear error messages for invalid inputs, and a user-friendly menu for navigation. All operations are designed to work with single-digit numbers (0–9), and results are displayed in ASCII format.
 
 Group Members:
+
 Abdul Rafay
+
 Hassan Zahid 
+
 Features Highlight:
+
 Interactive Menu: Displays a well-structured menu with clear instructions for the user.
 Error Handling: Ensures invalid inputs and edge cases, such as division by zero, are managed effectively.
 Factorial and Exponentiation: Implements loops to demonstrate iterative calculations in assembly.
