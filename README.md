@@ -14,16 +14,18 @@ The calculator offers the following features:
 The program includes robust input handling, clear error messages for invalid inputs, and a user-friendly menu for navigation. All operations are designed to work with single-digit numbers (0–9), and results are displayed in ASCII format.
 
 Group Members:
-
 Abdul Rafay
-
 Hassan Zahid 
 
 Features Highlight:
 
 Interactive Menu: Displays a well-structured menu with clear instructions for the user.
-Error Handling: Ensures invalid inputs and edge cases, such as division by zero, are managed effectively.
-Factorial and Exponentiation: Implements loops to demonstrate iterative calculations in assembly.
-Assembly Fundamentals: Showcases the use of system interrupts (INT 21H), register operations, and ASCII-to-binary conversions.
-This project reflects a hands-on understanding of assembly language and serves as an excellent resource for students learning low-level programming and 8086 architecture.
 
+Error Handling: Ensures invalid inputs and edge cases, such as division by zero, are managed effectively.
+
+Factorial and Exponentiation: Implements loops to demonstrate iterative calculations in assembly.
+
+Assembly Fundamentals: Showcases the use of system interrupts (INT 21H), register operations, and ASCII-to-binary conversions.
+
+
+This project reflects a hands-on understanding of assembly language and serves as an excellent resource for students learning low-level programming and 8086 architecture.
