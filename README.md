@@ -1,31 +1,44 @@
-# Simple Assembly Language Calculator
-This project is a Simple Calculator implemented in 8086 Assembly Language for the CO&AL (Computer Organization and Assembly Language) course. It demonstrates the practical application of low-level programming concepts and interaction with system interrupts to perform arithmetic operations.
+🔢 **Simple Assembly Language Calculator**  
 
-The calculator offers the following features:
+Excited to share my latest project for the **CO&AL (Computer Organization and Assembly Language)** course! This calculator, implemented in **8086 Assembly Language**, showcases low-level programming concepts and the use of system interrupts for arithmetic operations.
 
-1. Addition: Adds two single-digit numbers.
-2. Subtraction: Subtracts one single-digit number from another.
-3. Multiplication: Multiplies two single-digit numbers.
-4. Division: Divides one single-digit number by another and handles division by zero errors.
-5. Exponentiation: Computes the power of a base number raised to a given exponent.
-6. Factorial: Calculates the factorial of a single-digit number.
-7. Exit Option: Allows the user to terminate the program gracefully.
+---
 
-The program includes robust input handling, clear error messages for invalid inputs, and a user-friendly menu for navigation. All operations are designed to work with single-digit numbers (0–9), and results are displayed in ASCII format.
+### ✨ **Key Features**:  
+1. **Addition** – Adds two single-digit numbers.  
+2. **Subtraction** – Subtracts one single-digit number from another.  
+3. **Multiplication** – Multiplies two single-digit numbers.  
+4. **Division** – Divides one single-digit number by another and handles division by zero errors.  
+5. **Exponentiation** – Computes the power of a base number raised to an exponent.  
+6. **Factorial** – Calculates the factorial of a single-digit number.  
+7. **Exit Option** – Allows the user to gracefully terminate the program.
 
-Group Members:
-Abdul Rafay
-Hassan Zahid 
+---
 
-Features Highlight:
+### 💡 **Features Highlight**:  
+- **Interactive Menu**: A structured, user-friendly interface for seamless navigation.  
+- **Error Handling**: Includes robust checks for invalid inputs and division by zero scenarios.  
+- **Factorial and Exponentiation**: Demonstrates iterative calculations using loops in assembly language.  
+- **Assembly Fundamentals**:  
+  - Utilizes **system interrupts (INT 21H)** for input/output operations.  
+  - Implements **register operations** and **ASCII-to-binary conversions**.  
 
-Interactive Menu: Displays a well-structured menu with clear instructions for the user.
+---
 
-Error Handling: Ensures invalid inputs and edge cases, such as division by zero, are managed effectively.
+### 🤝 **Group Members**:  
+- Abdul Rafay  
+- Hassan Zahid  
 
-Factorial and Exponentiation: Implements loops to demonstrate iterative calculations in assembly.
+---
 
-Assembly Fundamentals: Showcases the use of system interrupts (INT 21H), register operations, and ASCII-to-binary conversions.
+### 🛠️ **Learning Outcomes**:  
+This project provided a hands-on experience with **8086 Assembly Language**, emphasizing:  
+- Practical use of **low-level programming** principles.  
+- Managing system resources and designing efficient algorithms.  
+- Enhancing problem-solving skills with assembly's unique constraints.
 
+This calculator is a testament to how foundational computing concepts can be applied to solve real-world problems, offering a deeper understanding of the **8086 architecture**.
 
-This project reflects a hands-on understanding of assembly language and serves as an excellent resource for students learning low-level programming and 8086 architecture.
+---
+
+#Programming #AssemblyLanguage #COAL #8086 #StudentProject #LowLevelProgramming
