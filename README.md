@@ -1,4 +1,4 @@
-🔢 **Simple Assembly Language Calculator**  
+# 🔢 **Simple Assembly Language Calculator**  
 
 Excited to share my latest project for the **CO&AL (Computer Organization and Assembly Language)** course! This calculator, implemented in **8086 Assembly Language**, showcases low-level programming concepts and the use of system interrupts for arithmetic operations.
 
